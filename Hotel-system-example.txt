@@ -1,0 +1,19 @@
+5. COMPLETE HOTEL SYSTEM EXAMPLE
+US-001: Secure Guest Login
+
+User Story:
+As a guest, I want to log in securely to the hotel portal, so that I can view my bookings and make payments safely.
+
+Acceptance Criteria:
+
+Given I am a registered guest, when I enter correct credentials and click “Login,” I am redirected to my dashboard.
+
+When credentials are incorrect, display “Invalid credentials” and lock account after 5 failed attempts.
+
+Password reset link expires after 24 hours.
+
+Sessions expire after 15 minutes of inactivity.
+
+All login attempts are logged for security.
+
+Story Points: 8
