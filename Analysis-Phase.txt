@@ -1,0 +1,55 @@
+1. THE ANALYSIS PHASE IN SOFTWARE DEVELOPMENT (Hotel System)
+Definition and Importance
+
+The analysis phase identifies the hotel’s needs, operations, and challenges to define what the Hotel Management System (HMS) must achieve. This is crucial because hotel operations depend on smooth reservation, billing, and service management. Misunderstandings at this stage could lead to customer dissatisfaction, operational inefficiency, or financial loss.
+
+Sub-Steps of the Analysis Phase
+1. Requirements Elicitation
+
+Gather information from all stakeholders: hotel managers, receptionists, housekeeping, restaurant staff, and guests. Methods include interviews, surveys, observation, and reviewing current processes.
+
+Examples of HMS needs:
+• Booking/reservation system
+• Room availability tracking
+• Guest check-in/check-out
+• Billing and invoicing
+• Housekeeping management
+• Restaurant and service orders
+
+2. Requirements Analysis and Modeling
+
+Organize and model requirements using diagrams such as use cases, data flow diagrams, and activity diagrams.
+
+HMS Analysis may include:
+• Room types, occupancy limits, and seasonal pricing
+• Guest check-in workflow
+• Integration with payment gateways
+• Service requests from hotel guests (housekeeping, room service)
+• Staff roles and access levels
+
+3. Requirements Specification (SRS)
+
+Document detailed functional and non-functional requirements.
+
+Examples:
+• Functional: “The system shall allow online reservations and manage cancellations.”
+• Non-functional: “System must ensure PCI-compliant payment security.”
+• Constraints: Multi-language support, integration with existing accounting software
+• Interfaces: Mobile app, website, POS systems in restaurants
+
+4. Requirements Validation and Verification
+
+Verify that requirements meet stakeholder expectations.
+
+Methods:
+• Review SRS with hotel staff and management
+• Test for completeness, clarity, and feasibility
+• Ensure guest data privacy and security compliance
+
+5. Requirements Management and Change Control
+
+Track requirements through the lifecycle.
+• Use version control for SRS documents
+• Log change requests
+• Evaluate impact on schedule, cost, and customer experience
+• Keep stakeholders informed
