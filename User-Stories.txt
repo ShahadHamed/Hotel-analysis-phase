@@ -1,0 +1,36 @@
+3. USER STORIES (Hotel System)
+
+Format:
+As a [role], I want [goal], so that [benefit].
+
+15 Example User Stories:
+
+As a guest, I want to search available rooms, so that I can select the best option.
+
+As a guest, I want to book a room online, so that I can secure my stay.
+
+As a guest, I want to cancel or modify my booking, so that I have flexibility.
+
+As a receptionist, I want to check guests in quickly, so that the front desk remains efficient.
+
+As a receptionist, I want to assign rooms based on bookings, so that occupancy is optimized.
+
+As a housekeeper, I want to see room cleaning schedules, so that rooms are prepared on time.
+
+As a manager, I want to track daily revenue, so that financial performance is monitored.
+
+As a guest, I want to order room service, so that I can enjoy meals without leaving the room.
+
+As a chef, I want to see pending room service orders, so that I can prepare food on time.
+
+As a billing officer, I want to generate invoices automatically, so that checkout is faster.
+
+As a guest, I want to make secure online payments, so that my transactions are safe.
+
+As a receptionist, I want to view guest history, so that I can offer personalized services.
+
+As a staff member, I want role-based access, so that sensitive data is protected.
+
+As a manager, I want to get monthly occupancy reports, so that I can plan marketing and staffing.
+
+As a guest, I want email confirmation of bookings, so that I have proof of my reservation.
