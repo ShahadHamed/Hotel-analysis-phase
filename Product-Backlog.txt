@@ -1,0 +1,35 @@
+2. PRODUCT BACKLOG DEVELOPMENT (Hotel System)
+Definition and Purpose
+
+The product backlog is a prioritized list of all work required for the HMS, guiding development to deliver the highest-value features first.
+
+Backlog Prioritization Techniques
+
+• Value vs. effort: Prioritize features like online booking first (high value, moderate effort)
+• MoSCoW: Must have, Should have, Could have, Won’t have
+• Risk-based: Critical features for guest satisfaction or revenue get higher priority
+
+Backlog Structure
+Epics
+
+• Room Reservation System
+• Guest Check-in/Check-out
+• Billing and Invoicing
+• Housekeeping Management
+• Restaurant and Room Service Orders
+• Staff Management
+
+User Stories Examples
+
+• As a guest, I want to book a room online, so that I can confirm my stay in advance.
+• As a receptionist, I want to check guests in quickly, so that the front desk is efficient.
+• As a housekeeper, I want to see which rooms need cleaning, so that I can schedule tasks effectively.
+• As a manager, I want daily revenue reports, so that I can track hotel performance.
+
+Tasks
+
+• Design database for rooms and bookings
+• Implement booking API
+• Create user interface for check-in/check-out
+• Build payment gateway integration
+• Develop housekeeping dashboard
